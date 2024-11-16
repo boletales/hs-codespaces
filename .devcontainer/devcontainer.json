@@ -3,7 +3,7 @@
   "build": {
     "dockerfile": "Dockerfile",
     "args": {
-      "VARIANT": "ubuntu-25.04"
+      "VARIANT": "ubuntu-21.04"
     }
   },
   "customizations": {

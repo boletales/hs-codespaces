@@ -1,5 +1,5 @@
 # OS
-ARG VARIANT="ubuntu-25.04"
+ARG VARIANT="ubuntu-21.04"
 FROM mcr.microsoft.com/vscode/devcontainers/base:0-${VARIANT}
 # avoid interactive mode when installing packages
 ENV DEBIAN_FRONTEND=noninteractive
