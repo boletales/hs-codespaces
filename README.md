@@ -1,1 +1,1 @@
-thanks to [Haskell を Dev Container で動かしたい](https://zenn.dev/fjktkm/articles/047d7c92c4df3f) by [@fjktkm](https://github.com/fjktkm)
+Thanks to [Haskeller のための開発環境構築 on GitHub Codespaces](https://qiita.com/algas/items/b8ad90051474322827eb) by @algas(Masahiro Yamauchi)

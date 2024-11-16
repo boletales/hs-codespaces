@@ -1,7 +1,10 @@
 {
-  "name": "Haskell",
+  "name": "Ubuntu",
   "build": {
-    "dockerfile": "Dockerfile"
+    "dockerfile": "Dockerfile",
+    "args": {
+      "VARIANT": "ubuntu-25.04"
+    }
   },
   "customizations": {
     "vscode": {
